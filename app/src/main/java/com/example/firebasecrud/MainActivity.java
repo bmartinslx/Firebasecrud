@@ -97,7 +97,7 @@ protected void onStart() {
 
 
 
-    // saveNote method:
+    // saveNote method :
     public void saveNote(View v) {
         String title = editTextTitle.getText().toString();
         String description = editTextDescription.getText().toString();
