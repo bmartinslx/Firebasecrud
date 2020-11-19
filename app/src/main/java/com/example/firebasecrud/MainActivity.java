@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         textViewData = findViewById(R.id.text_view_data);
     }
 
-    // saveNote method:
+    // saveNote method :
     public void saveNote(View v) {
         String title = editTextTitle.getText().toString();
         String description = editTextDescription.getText().toString();
